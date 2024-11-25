@@ -1,4 +1,5 @@
 version: STSv1
 mode: enforce
-mx: mx.salmanshafi.net
+mx: mx1.salmanshafi.net
+mx: mx2.salmanshafi.net
 max_age: 86400
