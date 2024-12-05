@@ -1,6 +1,5 @@
 version: STSv1
 mode: enforce
-mx: mx.zoho.jp
-mx: mx2.zoho.jp
-mx: mx3.zoho.jp
+mx: mx1.spacemail.com
+mx: mx2.spacemail.com
 max_age: 86400
